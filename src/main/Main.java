@@ -122,7 +122,7 @@ public class Main {
 		
 		about.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Created by Sourish Banerjee and Krishak Choukhany.\n"
+				JOptionPane.showMessageDialog(null, "Created by Sourish Banerjee.\n"
 						+ "Achieved with Java.", "About", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
